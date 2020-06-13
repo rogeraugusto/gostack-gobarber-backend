@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+coverage/
+
+tmp/uploads/*
+!tmp/uploads/.gitkeep
+
+npm-debug.log
+yarn-error.log
+yarn.lock
